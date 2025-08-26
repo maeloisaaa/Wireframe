@@ -13,3 +13,6 @@ Principais Funcionalidades
 - Biblioteca de Flash Cards: Acesse uma variedade de flash cards prontos, criados pela comunidade.
 - Jogos Educacionais: Participe de jogos interativos que transformam a revisão em uma atividade divertida.
 - Acesso em Qualquer Lugar: Estude a qualquer momento e em qualquer lugar, basta ter acesso à internet.
+
+
+https://www.figma.com/design/KQGUXErBwZHY3obXK57nxT/flashup?node-id=39-2&t=h6OWoCKjhFcZKLRy-1
